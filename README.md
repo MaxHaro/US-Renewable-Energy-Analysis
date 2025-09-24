@@ -1,2 +1,2 @@
 # US-Renewable-Energy-Analysis
-Developed a Python data pipeline to automatically fetch, clean, and visualize U.S. renewable energy trends using data from the official EIA API.
+This project analyzes the rapid evolution of the renewable energy sector in the United States. It features a Python script that automates the entire data pipeline: from programmatically fetching annual generation data via the U.S. Energy Information Administration (EIA) API to processing and structuring the raw data with Pandas. The final output is a compelling time-series visualization created with Matplotlib, which clearly illustrates the significant growth of solar and wind energy compared to more traditional renewable sources.
